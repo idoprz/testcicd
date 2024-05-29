@@ -1,0 +1,6 @@
+ID;medicinesID;name;description;price;quantity;doctor_ID
+94d12cad-6b94-4776-963c-61d488c995db;1;Aspirin;Pain reliever and fever reducer;5.99;100;b56e1327-9b14-4b7c-a4d3-40da777a9837
+00dbf509-afea-4d71-9c49-ff478eb43e60;2;Amoxicillin;Antibiotic used to treat bacterial infections;9.99;50;27a58101-201b-45b5-9070-f102ba03b141
+c164fced-4fb0-4c2e-8617-39205b92585a;3;Lipitor;Cholesterol-lowering medication;15.99;80;b56e1327-9b14-4b7c-a4d3-40da777a9837
+4791ebeb-3960-450f-8451-c60ac5f401c7;4;Advil;Nonsteroidal anti-inflammatory drug;7.99;120;6e019d93-9b14-46d6-86c8-de28ac0afd95
+b1c98d70-1f6c-48bc-aaa3-764f7639d2e7;5;Zyrtec;Antihistamine used to treat allergies;12.99;60;98dc4771-92b9-4ce2-982f-974a9bb03e11
